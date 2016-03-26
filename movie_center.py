@@ -24,6 +24,8 @@ star_wars = media.Movie("Star Wars",
                         "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg/220px-Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",
                         "https://www.youtube.com/watch?v=sGbxmsDFVnE")
 
+# An array of all the movies currently in the Movie Center.
 movies = [inception, avatar, ex_machina, star_wars]
 
+# Uses a function in the fresh_tomatoes.py file to output the movie_title, movie_storyline, poster_image, and youtube_trailer in the browser.
 fresh_tomatoes.open_movies_page(movies)
