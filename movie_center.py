@@ -1,10 +1,14 @@
 import fresh_tomatoes
 import media
 
+# Some of my favorite movies right now.
+# More will be added soon!
+
 inception = media.Movie("Inception",
                         "Plant an idea in someone's mind.",
                         "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Inception_ver3.jpg/220px-Inception_ver3.jpg",
                         "https://www.youtube.com/watch?v=YoHD9XEInc0")
+
 avatar = media.Movie("Avatar",
                      "A paralyzed marine becomes mobile again through an avatar.",
                      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg",
