@@ -1,4 +1,4 @@
-# Movie Center
+# Michael's Fresh Tomatoes Movie Center
 
 Please make sure you have [Python](https://www.python.org/downloads/) installed on your computer.
 
