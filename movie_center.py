@@ -1,26 +1,21 @@
 import fresh_tomatoes
 import media
 
-# Some of my favorite movies right now.
-# More will be added soon!
+# Some of my favorite movies right now. More will be added soon!
 
 inception = media.Movie("Inception",
-                        "Plant an idea in someone's mind.",
                         "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Inception_ver3.jpg/220px-Inception_ver3.jpg",
                         "https://www.youtube.com/watch?v=YoHD9XEInc0")
 
 avatar = media.Movie("Avatar",
-                     "A paralyzed marine becomes mobile again through an avatar.",
                      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
 ex_machina = media.Movie("Ex Machina",
-                         "A programmer is chosen to be the human compenent in a Turing test.",
                          "https://upload.wikimedia.org/wikipedia/en/b/ba/Ex-machina-uk-poster.jpg",
                          "https://www.youtube.com/watch?v=EoQuVnKhxaM")
 
 star_wars = media.Movie("Star Wars",
-                        "30 years after the defeat of the Galactic Empure a young duo joins forces with the Resistance.",
                         "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg/220px-Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",
                         "https://www.youtube.com/watch?v=sGbxmsDFVnE")
 
